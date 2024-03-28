@@ -1,6 +1,1 @@
-: Author: dddnick
-: Email:
-: Date: 28 / 03 / 2024
-: Revision: version#
-: License: Public Domain
 
